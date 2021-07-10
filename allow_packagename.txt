@@ -1,1 +1,1 @@
-tt.app.collagelayout,com.example.vgt,test.gs.ndsg
+tt.app.collagelayout,tt.app.collagelayoutsdk
