@@ -1,1 +1,1 @@
-tt.app.collagelayout,tt.app.collagelayoutsdk
+tt.app.collagelayout,tt.app.collagelayoutsdk,com.TTT.collagemaker.photoeditor.layout.photocollage
