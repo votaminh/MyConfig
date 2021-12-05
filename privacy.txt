@@ -1,0 +1,21 @@
+Protecting your privacy is important to us. We hope the following statement will help you understand how TTT TEAM deals with the personal identifiable information ('PII') you may occasionally provide to us via Internet (the'Google Play'Platform).
+
+Please read this privacy policy carefully by installing and/or using the application and/or service, you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all the terms and conditions set forth below, you may not use the call me applications and/or services.
+
+1. android.permission.ACCESS_NETWORK_STATE
+
+Share pictures on social networks.
+
+2. android.permission.INTERNET
+
+Download images, background, templates from the server to the app.
+
+3. android.permission.READ_EXTERNAL_STORAGE
+
+To read your photos so that we can edit and save photos. We do not use this permission for any other purpose.
+
+4. android.permission.WRITE_EXTERNAL_STORAGE
+
+To read your photos so that we can edit and save photos. We do not use this permission for any other purpose.
+
+It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have concern about your PII being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at johnluu1995@gmail.com, we will endeavor to provide clear answers to your questions in a timely manner.
