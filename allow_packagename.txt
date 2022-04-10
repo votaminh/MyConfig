@@ -2,4 +2,5 @@ tt.app.collagelayout,
 tt.app.collagelayoutsdk,
 com.TTT.collagemaker.photoeditor.layout.photocollage,
 com.TTT.logomaker.logocreator.generator.designer,
-com.msc.ytbmaker
+com.msc.ytbmaker,
+com.msc.min.graphic.editor
