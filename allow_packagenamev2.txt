@@ -1,5 +1,7 @@
 {
-  "p": [],
+  "p": [
+    "com.TTT.watermark.addwatermark.watermarkphotos"
+  ],
   "l": [
     "en",
     "vi"
