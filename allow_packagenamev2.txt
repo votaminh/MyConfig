@@ -1,0 +1,1 @@
+{"p":["com.TTT.watermark.addwatermark.watermarkphotos","com.TTT.logomaker.logocreator.generator.designer"],"l":["vi","en"]}
