@@ -1,1 +1,11 @@
-{"p":["com.TTT.watermark.addwatermark.watermarkphotos"],"l":[]}
+{
+  "p": [
+    "com.TTT.watermark.addwatermark.watermarkphotos"
+  ],
+  "l": [
+    "in",
+    "es",
+    "fil",
+    "th"
+  ]
+}
