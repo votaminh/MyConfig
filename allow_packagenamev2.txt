@@ -1,5 +1,6 @@
 {
   "p": [
+    "com.TTT.logomaker.logocreator.generator.designer",
     "com.TTT.watermark.addwatermark.watermarkphotos"
   ],
   "l": [
