@@ -1,0 +1,115 @@
+Privacy Policy - Wapo - Add Watermark on Photos
+
+Protecting your privacy is important to us. We hope the following statement will help you understand how TTT TEAM deals with the personal identifiable information ('PII') you may occasionally provide to us via Internet (the'Google Play'Platform).
+
+Please read this privacy policy carefully by installing and/or using the application and/or service, you agree to be bound by the terms and conditions described herein and all terms and conditions incorporated by reference. If you do not agree to all the terms and conditions set forth below, you may not use the call me applications and/or services.
+
+1. android.permission.CAMERA 
+
+Lets take pictures
+
+2. android.permission.INTERNET
+
+Share photos after editing on social networks
+
+3. android.permission.WRITE_EXTERNAL_STORAGE
+
+Save images after taking photos, editing photos
+
+4. android.permission.READ_EXTERNAL_STORAGE
+
+Reading images from the library allows users to choose images faster
+
+5. com.android.vending.BILLING
+
+Allow in-app purchases
+
+DATA PRIVACY
+
+Our Basis to Collect Your Personal Information
+
+You are about to enter into a contract with us where we provide Watermark - MSC TEAM Services and you agree to our Terms of Service. This is the basis we use to process your Personal Information.
+
+1. WHAT DATA WE COLLECT & HOW
+
+i. The information we collect from you includes the country you set your device to, the language you use on your device, the type and version of the operating system of your device, and your device model. If you make any in-app purchases, we will also collect the product IDs of the items you purchase.
+
+ii. We collect this information from you to improve our app’s overall performance and the service we provide as well as to show you ads that are personalized for you. We analyze this information with tools provided by third party companies. These companies include: Firebase, Google.
+
+iii. With your permission in the application, we may access your device’s photo library.
+
+2. HOW WE USE YOUR PERSONAL INFORMATION
+
+We use personal information collected through the Watermark - MSC TEAM Services with your permission:
+
+i. to communicate with you or third parties;
+
+ii. to process your requests and transactions;
+
+iii. to improve the Watermark - MSC TEAM Services;
+
+iv. to customize the services and/or products we provide to you;
+
+v. to assist with our product and service development;
+
+vi. to perform marketing activities;
+
+vii. to provide relevant advertising such as showing you ads that are tailored for you;
+
+3. WITH WHOM WE SHARE YOUR PERSONAL INFORMATION
+
+We may share your personal information (and non-personal information) with third party ads services which include Google, Facebook to serve you relevant advertising and market our products, but we won't sell your personal information. Also, we may disclose the personal information we collect through the Watermark - MSC TEAM Services when we, in good faith, believe disclosure is appropriate to:
+
+i. comply with applicable law (e.g., in response to a valid court order or subpoena);
+
+ii. prevent or investigate a possible crime, such as fraud or identity theft;
+
+iii. enforce the Terms of Service or other agreements that govern your use of the Watermark - MSC TEAM Services and/or any of our other services;
+
+iv. to protect the rights, property or safety of us, our users or others; or
+
+v. to protect your vital interests.
+
+If we are going to release your information in response to a legal process, our policy is to provide you with reasonable advance notice under the circumstances unless we are prohibited from doing so by law or court order (e.g., an order under 18U.S.C. § 2705(b)). We may disclose your information without giving you prior notice if we believe it is necessary to prevent imminent and serious bodily harm to a person. Nothing in this Privacy Policy is intended to limit any legal objections or defenses you might have to efforts by third parties to compel disclosure of your information, including legal orders from the government. Your personal information and other data collected by us may be transferred to another company that has acquired our stock or assets, for example, as a result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company's use of your personal information will still be subject to this Privacy Policy.
+
+4. USER RIGHTS
+
+According to data protection and privacy laws may grant you with certain rights with regards to your Personal Data, all according to your jurisdiction. The rights may include one or all of the following:
+
+(i) request to amend your Personal Data we store accessing.
+
+(ii) review and access your Personal Data that we hold.
+
+(iii) request to delete your Personal Data that we hold (as long as we do not have a legitimate reason for retaining the data); (iv) restrict or object to the process your Personal Data.
+
+(v) exercise your right of data portability.
+
+(vi) contact to a supervisory authority in your jurisdiction and file a complaint.
+
+(vii) withdraw consent (to the extent applicable). If you wish to submit a request to exercise your rights, please fill out the Data Subject Request Form (“DSR”) available here and send it to our email at: johnluu1995@gmail.com
+
+When you contact us and request to exercise your rights regarding your Personal Data, we will require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take reasonable time and effort, as required or permitted under applicable law. Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply.
+
+5. DATA RETENTION
+
+We retain Personal Data we collect as long as it remains necessary for the purposes set forth above, all in accordance with applicable laws, or until an individual expresses a preference to opt-out. We may at our sole discretion, delete or amend information from our systems, without notice to you, once we deem it is no longer necessary for such purposes.
+
+Please note that except as required by applicable law, we will not be obligated to retain your data for any particular period, and we may delete it for any reason and at any time, with or without previous notice to you.
+
+6. SECURITY
+
+We take great care in implementing physical, technical, and administrative security measures for the services that we believe comply with applicable regulation and industry standards to prevent your information from being accessed without the proper authorization, improperly used or disclosed, unlawfully destructed, or accidentally lost.
+
+If you feel that your privacy was not dealt with properly or was dealt with in a way that was in breach of our Privacy Policy or if you become aware of a third party’s attempt to gain unauthorized access to any of your Personal Data, please contact us at our email. We will make a reasonable effort to notify you and the appropriate authorities (if required by applicable law) if we discover a security incident related to your Personal Data.
+
+7. CHILDREN
+
+Our App and Services are intended for general audience and is not directed to persons under 13 years old. If a parent or guardian becomes aware that his/her child has provided us with Personal Data without their consent, he/she should contact us immediately. We do not knowingly collect or solicit Personal Data from people under 13 years old. If we become aware that a person under 13 years old has provided us with Personal Data, we will delete such data from our databases.
+
+8. CHANGES AND UPDATES
+
+We reserve the right to change this Privacy Policy at any time, so please re-visit this page frequently. In the event that we made any substantial changes to this Privacy Policy, we will make reasonable efforts to provide you with notification with respect to such changes, if we are required to do so by applicable law. The changes to this Privacy Policy will go into effect as of the date listed in the “Last Amended” heading located at the top of this Privacy Policy.
+
+9. CONTACT US
+
+If you have any questions or concerns regarding privacy issues, or if you wish to be provided with any other information related to our privacy practices, please contact us: devapp07968@gmail.com
