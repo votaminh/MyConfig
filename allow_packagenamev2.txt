@@ -1,7 +1,1 @@
-{
-  "p": [],
-  "l": [
-    "vi",
-    "en"
-  ]
-}
+{"p":["com.TTT.logomaker.logocreator.generator.designer","com.TTT.watermark.addwatermark.watermarkphotos","com.msc.watermark.addwatermark.watermarkphotos"],"l":["in","es","fil","th"]}
