@@ -5,4 +5,5 @@ com.TTT.logomaker.logocreator.generator.designer,
 com.msc.ytbmaker,
 com.msc.min.graphic.editor,
 com.logo.esport.designer,
-com.TTT.watermark.addwatermark.watermarkphotos
+com.TTT.watermark.addwatermark.watermarkphotos,
+com.msc.watermark.addwatermark.watermarkphotos
