@@ -6,5 +6,7 @@
     "com.msc.ai.chat.bot.aichat",
     "com.TTT.ai.chatbot.chatgpt.chatai"
   ],
-  "l": []
+  "l": [
+    "en"
+  ]
 }
