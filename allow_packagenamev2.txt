@@ -7,6 +7,9 @@
     "com.TTT.ai.chatbot.chatgpt.chatai"
   ],
   "l": [
-    "in"
+    "in",
+    "en",
+    "es",
+    "vi"
   ]
 }
