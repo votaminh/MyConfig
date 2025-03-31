@@ -1,1 +1,1 @@
-{"p":["com.TTT.logomaker.logocreator.generator.designer","com.TTT.watermark.addwatermark.watermarkphotos","com.msc.watermark.addwatermark.watermarkphotos","com.msc.ai.chat.bot.aichat","com.TTT.ai.chatbot.chatgpt.chatai"],"l":[]}
+{"p":["com.TTT.logomaker.logocreator.generator.designer","com.TTT.watermark.addwatermark.watermarkphotos","com.msc.watermark.addwatermark.watermarkphotos","com.msc.ai.chat.bot.aichat","com.TTT.ai.chatbot.chatgpt.chatai","com.grl.chatbot.ai.aichat.aibot.chat"],"l":[]}
