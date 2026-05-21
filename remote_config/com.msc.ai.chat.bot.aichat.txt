@@ -1,0 +1,11 @@
+{
+  "api_umagic": {
+    "enhance": {
+      "baseURL": "https://ai.hardstonepte.ltd/snap/enhance/"
+    }
+  },
+  "ads": {
+    "native_onboard": "",
+    "native_chat": ""
+  }
+}
