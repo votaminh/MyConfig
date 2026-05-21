@@ -1,7 +1,8 @@
 {
   "api_umagic": {
     "enhance": {
-      "baseURL": "https://ai.hardstonepte.ltd/snap/enhance/"
+      "baseURL": "https://ai.hardstonepte.ltd/snap/enhance/",
+      "versionCode": "14100"
     }
   },
   "ads": {
