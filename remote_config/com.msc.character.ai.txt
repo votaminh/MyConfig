@@ -1,0 +1,13 @@
+{
+  "api_umagic": {
+    "base_url_firestorage_umagic": "https://firebasestorage.googleapis.com/v0/b/hardstone_img_us/",
+    "enhance": {
+      "baseURL": "https://ai.hardstonepte.ltd/snap/enhance/",
+      "versionCode": "14100"
+    }
+  },
+  "ads": {
+    "native_onboard": "",
+    "native_chat": ""
+  }
+}
