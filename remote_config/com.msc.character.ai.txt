@@ -6,6 +6,12 @@
       "versionCode": "14100"
     }
   },
+  "api_chat": {
+    "Yollo": {
+      "baseURL": "https://chat.aichatingbot.com/deepseek/chat/completions",
+      "authorization": "Bearer ak-fdksfjkJKJkfefii4434kfk434fjkfdjs"
+    }
+  },
   "ads": {
     "native_onboard": "",
     "native_chat": ""
